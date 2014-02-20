@@ -1,0 +1,32 @@
+.navUL {
+    list-style-type:none;
+    margin:0;
+    padding-left:6em;
+}
+.navUL > li {
+    display:inline;
+}
+.nav {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: #ffffff;
+    width: 100%;
+    background-color:#000000;
+    font-size: 48px;
+}
+a {
+    text-decoration:none;
+    color:gray;
+    padding-right:1em;
+}
+.active {
+    color: white;
+}
+.logo > img {
+    border:solid;
+    border-top-width:thin;
+    border-bottom-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    border-color:#ffffff;
+    border-radius:10%
+}
